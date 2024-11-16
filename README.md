@@ -1,10 +1,10 @@
 # FCW to SVG Converter
 
-A simple tool to convert maps from Campaign Cartographer (CC3) into the universal SVG format.
+A simple tool to convert maps from Campaign Cartographer (CC3) into the universal SVG format. Maintained by [Your Name] as part of the Geospatial Grimoire organization.
 
 ## Description
 
-**FCW to SVG Converter** allows you to easily transform [FCW](https://rpgmaps.profantasy.com/looking-under-the-hood-of-the-fcw-file-format/) binary files created in [Campaign Cartographer (CC3+)](https://www.profantasy.com/products/cc3.asp) into the more universal and widely supported SVG format. This is particularly useful for those who wish to view or edit maps from, for example, the [Forgotten Realms Interactive Atlas (1999)](https://forgottenrealms.fandom.com/wiki/Forgotten_Realms_Interactive_Atlas), in modern vector graphic editors.
+**FCW to SVG Converter** allows you to easily transform FCW binary files created in [Campaign Cartographer (CC3+)](https://www.profantasy.com/products/cc3.asp) into the more universal and widely supported SVG format. This is particularly useful for those who wish to view or edit maps from, for example, the [Forgotten Realms Interactive Atlas (1999)](https://forgottenrealms.fandom.com/wiki/Forgotten_Realms_Interactive_Atlas), in modern vector graphic editors.
 
 ## Features
 
@@ -13,12 +13,12 @@ A simple tool to convert maps from Campaign Cartographer (CC3) into the universa
 
 ## How to Use
 
-1. Install Java: Ensure you have the latest version of Java installed.
-2. Download the Converter: [Download the JAR file](https://github.com/geospatial-grimoire/fcw-to-svg-converter/releases/latest) from the Releases section of this repository.
+1. Ensure you have the latest version of Java installed.
+2. [Download the Converter JAR file](https://github.com/geospatial-grimoire/fcw-to-svg-converter/releases/latest) from the Releases section of this repository.
 3. Run the Converter:
   - Open a command prompt or terminal.
   - Enter the command: `java -jar fcw-to-svg-converter.jar your_file.fcw`.
-4. Get the SVG File: After executing the command, a file with the `.svg` extension will appear in the same directory.
+4. After executing the command, a file with the `.svg` extension will appear in the same directory.
 
 ## Testing
 
