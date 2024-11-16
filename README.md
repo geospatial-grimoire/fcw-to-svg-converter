@@ -1,9 +1,5 @@
 # FCW to SVG Converter
 
-A simple tool to convert maps from Campaign Cartographer (CC3) into the universal SVG format. Maintained by [Your Name] as part of the Geospatial Grimoire organization.
-
-## Description
-
 **FCW to SVG Converter** allows you to easily transform FCW binary files created in [Campaign Cartographer (CC3+)](https://www.profantasy.com/products/cc3.asp) into the more universal and widely supported SVG format. This is particularly useful for those who wish to view or edit maps from, for example, the [Forgotten Realms Interactive Atlas (1999)](https://forgottenrealms.fandom.com/wiki/Forgotten_Realms_Interactive_Atlas), in modern vector graphic editors.
 
 ## Features
